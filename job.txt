@@ -1,0 +1,11 @@
+We are looking for a skilled Software Engineer to join our dynamic team. The ideal candidate should have experience in web development with proficiency in JavaScript, React, Node.js, and HTML/CSS. Knowledge of Git and experience working with APIs is a plus.
+
+Responsibilities:
+- Develop and maintain front-end applications using modern JavaScript frameworks such as React.
+- Collaborate with back-end engineers to integrate APIs and improve application performance.
+- Write clean, scalable, and efficient code.
+
+Qualifications:
+- Proficient in JavaScript, React, Node.js, HTML/CSS.
+- Familiarity with Git and version control systems.
+- Excellent communication skills and team collaboration experience.
